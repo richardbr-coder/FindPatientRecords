@@ -1,0 +1,7 @@
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\FindPatientRecords\FindPatientRecords\bin\Debug\FindPatientRecords.exe.config
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\FindPatientRecords\FindPatientRecords\bin\Debug\FindPatientRecords.exe
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\FindPatientRecords\FindPatientRecords\bin\Debug\FindPatientRecords.pdb
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\FindPatientRecords\FindPatientRecords\obj\Debug\FindPatientRecords.csprojAssemblyReference.cache
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\FindPatientRecords\FindPatientRecords\obj\Debug\FindPatientRecords.csproj.CoreCompileInputs.cache
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\FindPatientRecords\FindPatientRecords\obj\Debug\FindPatientRecords.exe
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\FindPatientRecords\FindPatientRecords\obj\Debug\FindPatientRecords.pdb
